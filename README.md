@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hasaanabbas
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently swift
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently CS50x24 from Harvard
 - ⚡ Fun fact: enjoyable
 
 <!---
